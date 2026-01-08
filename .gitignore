@@ -1,0 +1,7 @@
+# Ignore MySQL data
+mysql/data/
+
+# OS / IDE files
+.vscode/
+.idea/
+.DS_Store
